@@ -1,6 +1,6 @@
 # Audit Reports
 
-List of audit reports led by me as a Lead Security Researcher.
+This is a partial list of public audit reports led by me as a Lead Security Researcher.
 
 | Project Name          | Date          | Report Link                                              |
 |-----------------------|---------------|----------------------------------------------------------|
