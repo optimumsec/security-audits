@@ -4,6 +4,7 @@ This is a partial list of public audit reports led by me as a Lead Security Rese
 
 | Project Name          | Date          | Report Link                                              |
 |-----------------------|---------------|----------------------------------------------------------|
+| Reflex       | September 2025     | [View Report](./audit-reports/Reflex-Optimum-September-2025.pdf) |
 | Coinbase       | June 2025     | [View Report](./audit-reports/Coinbase-Cantina-June-2025.pdf) |
 | Coinbase       | April 2024    | [View Report](./audit-reports/Coinbase-Cantina-April-2024.pdf) |
 | Coinbase Solady       | December 2024    | [View Report](./audit-reports/Coinbase-Solady-Spearbit-December-2024.pdf) |
